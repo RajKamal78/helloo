@@ -1,3 +1,5 @@
+---->java Script
+
 let cookies = {};
 let session = {};
 
@@ -18,7 +20,9 @@ delete session.username;
 
 console.log("Session Destroyed Successfully!");
 
-Q2:
+Q2:   ------->React
+
+
 import React, { useState } from 'react';
 
 function App() {
